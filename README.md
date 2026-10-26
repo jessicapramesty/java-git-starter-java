@@ -14,4 +14,4 @@ java -cp target/classes com.example.App
 ## Isi proyek
 
 - `App.java`: titik masuk aplikasi.
-- `Calculator.java`: contoh class dengan method penjumlahan dan perkalian.
+- `Calculator.java`: contoh class dengan method penjumlahan, pengurangan, perkalian, dan pembagian (melempar `IllegalArgumentException` jika pembagi nol).
